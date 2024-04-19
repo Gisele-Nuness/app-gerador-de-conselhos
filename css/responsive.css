@@ -1,0 +1,27 @@
+@media(max-width: 768px){
+    main {
+        margin: 10px;
+    }
+    
+    .card{
+        width: 386px;
+        height: 320px;
+    }
+    
+    .id-conselho{
+        font-size: 10px;
+        margin-top: 45px;
+    }
+
+    .descricao{
+        font-size: 20px;
+        margin-bottom: 12px;
+        width: auto;
+        height: 115px;
+    }
+
+    .botao {
+        margin-top: 33px;
+    }
+
+}
